@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(216, 170, 170, 0.623);
+}
+
+.container{
+    width: 1500px;
+    margin: auto;
+}      
+
+
+.card{
+    font-size: 15px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: normal;
+    background-color: rgba(28, 190, 95, 0.404);
+    color: #01141e;
+    border: 4px solid rgb(77, 41, 41);
+    border-radius: 30px;
+    padding: 10px 10px;
+
+}
+
+.heading{
+    margin: auto;
+    width: 400px;
+    color: rgb(172, 18, 18);
+    font-size: 20px;
+}
+
+.card-1{
+    font-size: 15px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: normal;
+    background-color: rgba(28, 190, 95, 0.404);
+    color: #01141e;
+    border: 4px solid rgb(77, 41, 41);
+    border-radius: 30px;
+    padding: 10px 10px;
+    margin-left: 430px;
+    margin-right: 430px;
+}
+
+.excerp{
+    padding-left: 400px;
+    padding-right: 400px;
+    font-size: 19px;
+    font-weight: bolder;
+    color: red;
+}
+
+.card-2{
+    font-size: 15px;
+    border: 4px solid rgb(77, 41, 41);
+    background-color: rgba(28, 190, 95, 0.404);
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+    padding: 10px 10px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: normal;
+
+}
